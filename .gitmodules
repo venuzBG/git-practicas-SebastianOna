@@ -1,0 +1,3 @@
+[submodule "submodules/otro-repo"]
+	path = submodules/otro-repo
+	url = https://github.com/venuzBG/Taller1.git
